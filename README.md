@@ -1,7 +1,7 @@
 ### Hi there, I'm Sebb0y but you can call me Seb if seem lost before you leave drop me a follow  👋
 
 
-
+## Discord Bot [Invite]: https://discord.com/oauth2/authorize?client_id=749151155015122987&scope=bot&permissions=388214
 
 
 <!--
