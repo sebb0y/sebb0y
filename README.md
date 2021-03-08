@@ -2,7 +2,7 @@
 
 
 
-## I'm a Discord Bot devoloper you can invite it [Here] [https://discord.com/oauth2/authorize?client_id=749151155015122987&scope=bot&permissions=388214]
+
 
 <!--
 **sebb0y/sebb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
